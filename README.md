@@ -56,10 +56,6 @@
 <a href="https://mermaid.js.org/" target="_blank">
   <img style="margin: 10px" src="https://avatars.slack-edge.com/2023-08-31/5829953712962_3ea143691967fed79611_512.png" alt="Mermaid.js" height="50" />
 </a>
-
-
-
-
 </div>
 
 </td></tr></table>  
@@ -80,19 +76,23 @@
 <h5> If you need to contact me for any reason, whether it's to ask a question, discuss something, feel free to reach out whenever it's convenient for you. 😊 </h5>
 <br/><br/>
 <div align="center">
-  <a href="lorenzofmendes49@gmail.com">
-    <img alt="Gmail" width="50" height="50" src="https://cdn-icons-png.flaticon.com/128/732/732200.png" />
-  </a>
-  <a href="https://www.linkedin.com/in/lorenzo-feltrin-086870227/">
-    <img alt="LinkedIn" width="50" height="50" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" />
-  </a>
-<ul> </ul><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeltrinLM&layout=compact" alt="Top Langs" />
+
+  <!-- Ícones acima da tabela -->
+  <div>
+    <a href="mailto:lorenzofmendes49@gmail.com">
+      <img alt="Gmail" width="50" height="50" src="https://cdn-icons-png.flaticon.com/128/732/732200.png" />
+    </a>
+    <a href="https://www.linkedin.com/in/lorenzo-feltrin-086870227/">
+      <img alt="LinkedIn" width="50" height="50" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" />
+    </a>
+  </div>
+
+  <!-- Tabela de linguagens -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeltrinLM&layout=compact&langs_count=20&custom_title=All%20Languages%20Used" />
+
 </div>
 
-
-
-
- </p>
+</p>
 
 </br>
 </br>
@@ -101,6 +101,3 @@
 </br>
 </br>
 </br>
-
-
-*************
