@@ -15,13 +15,14 @@
 <table><tr><td valign="top" width="33%">
 	
 ### Frontend & Prototype 
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<div align="center">    
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
+<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
+<a href="https://en.wikipedia.org/wiki/React" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/React-original-wordmark.svg" alt="React" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -44,19 +45,35 @@
 </td><td valign="top" width="33%">
 
 
-
-### PM  & SWE  
+### PM & SWE  
 <div align="center">  
-<a href="https://www.flaticon.com/free-icon/scrum_3967189" target="_blank">
-  <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/3967/3967189.png" alt="Scrum" height="50" />
-</a>
-<a href="https://www.pmi.org/pmbok-guide-standards/foundational/pmbok" target="_blank">
-  <img style="margin: 10px" src="https://media.licdn.com/dms/image/v2/C4E0BAQGZZGqOhHZcOw/company-logo_200_200/company-logo_200_200/0/1630597866773?e=1757548800&v=beta&t=itHXtwRxPA9qabHIUX0T0DU5TEBjxQpmrk9jp_Bx0tM" alt="PMBOK / PMI" height="50" />
-</a>
-<a href="https://mermaid.js.org/" target="_blank">
-  <img style="margin: 10px" src="https://avatars.slack-edge.com/2023-08-31/5829953712962_3ea143691967fed79611_512.png" alt="Mermaid.js" height="50" />
-</a>
+
+  <a>
+    <img style="margin: 10px; border: none; outline: none;" src="https://cdn-icons-png.flaticon.com/512/3967/3967189.png" alt="Scrum" height="50" />
+  </a>
+
+  <a>
+    <img style="margin: 10px; border: none; outline: none;" src="https://avatars.slack-edge.com/2023-08-31/5829953712962_3ea143691967fed79611_512.png" alt="Mermaid.js" height="50" />
+  </a>
+
+  <a>
+    <img style="margin: 10px; border: none; outline: none;" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="50" />
+  </a>
+
+  <br/>
+
+  <a>
+    <img style="margin: 10px; border: none; outline: none;" src="https://cdn-icons-png.flaticon.com/512/5084/5084666.png" alt="Kanban Board" height="50" />
+  </a>
+
+  <a>
+    <img style="margin: 10px; border: none; outline: none;" src="https://www.cdnlogo.com/logos/p/22/pmi.svg" alt="PMI Global" height="50" />
+  </a>
+
 </div>
+
+
+</td>
 
 </td></tr></table>  
 <br/>  
@@ -89,6 +106,15 @@
 
   <!-- Tabela de linguagens -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeltrinLM&layout=compact&langs_count=20&custom_title=All%20Languages%20Used" />
+
+</div>
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+
+![](https://nirzak-streak-stats.vercel.app/?user=FeltrinLM&theme=dark&hide_border=false)<br/>
 
 </div>
 
